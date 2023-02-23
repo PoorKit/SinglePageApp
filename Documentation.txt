@@ -1,0 +1,3 @@
+I Seperated Tagline Component as its own seperate from the desktop and mobile pages simply for the reason of layout
+
+the form is seperated because of being implemented as a footer for the Mobile Page.
